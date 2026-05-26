@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:toku_app/components/item_info.dart';
-import 'package:toku_app/models/item.dart';
+import 'package:toku_app/models/item_model.dart';
 
 class Item extends StatelessWidget {
   const Item({super.key, required this.item, required this.color});
