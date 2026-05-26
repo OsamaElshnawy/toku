@@ -35,5 +35,5 @@ The project follows clean coding standards, separating core logic from the UI la
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/toku_app.git](https://github.com/OsamaElshnawy/toku_app.git)
+   git clone (https://github.com/OsamaElshnawy/toku.git)
    ```
